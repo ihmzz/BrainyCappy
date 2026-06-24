@@ -1,0 +1,6 @@
+{
+  "name": "Arabic & Multilingual Text-to-Speech",
+  "description": "An elegant, highly customizable Arabic and multilingual text-to-speech converter powered by the advanced Gemini TTS model.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
